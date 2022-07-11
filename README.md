@@ -1,2 +1,2 @@
 # brainage
-A game that slowly saps your brain cells as you progress through it.
+Type https://ritvijiscool.github.io/brainage/ into your browsers search bar.
